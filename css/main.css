@@ -1,0 +1,59 @@
+#container{
+	max-width: 100%;
+	margin-left: 100px;
+}
+
+h1{
+	border-bottom:1px solid #D95B43;
+    font-size:40px;
+    font-weight:normal;
+    letter-spacing:-2px;
+    line-height:26px;
+
+}
+
+img{
+	width: 300px;
+	height: 350px;
+	margin: 2px;
+	display: inline-block;
+}
+
+ul{
+	display: table;
+	padding: 0;
+	width: 100%;
+}
+
+ul li{
+	display: table-cell;
+	padding: 0 5px;
+	width: 170px;
+	margin: 2px;
+}
+
+#mostrar{
+	font-size: 18px;
+	text-align: left;
+	max-width: 60%;
+	float: right;
+}
+
+.mix{
+	display: none;
+	padding: 30px;
+	width: auto;
+	background-color:#9999ff;
+	border-radius: 4px;
+	color: white;
+	margin-bottom: 10px;
+}
+body{
+	background-image: url(../img/fondo_cine);
+}	
+					
+										
+
+					
+					
+					
